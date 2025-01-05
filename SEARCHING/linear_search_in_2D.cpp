@@ -1,5 +1,5 @@
 /*
-  Here in thiis program we are using function to search a particular target in an two dimensional array.
+  Here in this program we are using function to search a particular target value in a two dimensional array.
 */
 #include<iostream>
 using namespace std;
